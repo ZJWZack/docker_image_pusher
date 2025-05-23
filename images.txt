@@ -6,4 +6,6 @@
 --platform=linux/arm64 xiaoyaliu/alist
 #laoyutang/clash-and-dashboard
 #mzz2017/v2raya
-centralx/clash
+#centralx/clash
+metacubex/mihomo
+mrxianyu/metacubexd-ui
