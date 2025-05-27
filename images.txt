@@ -7,5 +7,6 @@
 #laoyutang/clash-and-dashboard
 #mzz2017/v2raya
 #centralx/clash
-metacubex/mihomo
-mrxianyu/metacubexd-ui
+#metacubex/mihomo
+#mrxianyu/metacubexd-ui
+tangyoha/telegram_media_downloader
