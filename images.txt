@@ -10,4 +10,4 @@
 #metacubex/mihomo
 #mrxianyu/metacubexd-ui
 #tangyoha/telegram_media_downloader
-jarvis2f/telegram-files
+ghcr.io/jarvis2f/telegram-files
