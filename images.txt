@@ -9,4 +9,5 @@
 #centralx/clash
 #metacubex/mihomo
 #mrxianyu/metacubexd-ui
-tangyoha/telegram_media_downloader
+#tangyoha/telegram_media_downloader
+jarvis2f/telegram-files
