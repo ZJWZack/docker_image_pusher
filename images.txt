@@ -10,4 +10,5 @@
 #metacubex/mihomo
 #mrxianyu/metacubexd-ui
 #tangyoha/telegram_media_downloader
-ghcr.io/jarvis2f/telegram-files
+#ghcr.io/jarvis2f/telegram-files
+ZJWZack/telegram_downloader_zack
